@@ -1,0 +1,6369 @@
+Hello WorldTestMoxy Default Functional Security Groups
+System Defaults
+System Adminstrator
+Mananger
+Portfolio Assistant
+Head Trader
+Trader
+Data Import
+Trading & Portfolios
+This level contains the rights to create, approve, place, fill, modify, and allocate orders.
+Create and Approve
+Create and Approve
+Approve Own Trades
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+System Defaults
+Y
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+System Administrator
+Y
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+Manager
+Y
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+Portfolio Assistant
+Y
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+Head Trader
+N
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+Trader
+N
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+Data Import
+Y
+Create Strategies
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+System Defaults
+N
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+System Administrator
+Y
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+Manager
+Y
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+Portfolio Assistant
+Y
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+Head Trader
+N
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+Trader
+N
+Create Strategies
+Create and Approve
+The ability to create orders using an Allocation Strategy or Modeling.
+Data Import
+N
+Create Quick Orders
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+System Defaults
+N
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+System Administrator
+Y
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+Manager
+Y
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+Portfolio Assistant
+Y
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+Head Trader
+N
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+Trader
+N
+Create Quick Orders
+Create and Approve
+The ability to create orders using the Quick Order dialog box or the Trade Screen.
+Data Import
+N
+Approve for Trading
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+System Defaults
+N
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+System Administrator
+Y
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+Manager
+Y
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+Portfolio Assistant
+N
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+Head Trader
+N
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+Trader
+N
+Approve for Trading
+Create and Approve
+The ability to approve orders for trading.
+Data Import
+N
+Appr. Without Port.
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+System Defaults
+N
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+System Administrator
+Y
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+Manager
+Y
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+Portfolio Assistant
+Y
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+Head Trader
+Y
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+Trader
+Y
+Appr. Without Port.
+Create and Approve
+The ability to approve a quick order without first assigning a portfolio to the order.
+Data Import
+N
+Unapprove for Trading 
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+System Defaults
+N
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+System Administrator
+Y
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+Manager
+N
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+Portfolio Assistant
+N
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+Head Trader
+Y
+Approve Own Trades
+Create and Approve
+Controls whether users can approve orders they create. When disabled, orders must be approved by an independent user.
+Trader
+Y
+Unapprove for Trading
+Create and Approve
+The ability to unapprove orders for trading.
+Data Import
+N
+Trade
+Trade
+Close Orders
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+System Defaults
+N
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+System Administrator
+Y
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+Manager
+N
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+Portfolio Assistant
+N
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+Head Trader
+Y
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+Trader
+Y
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+Data Import
+N
+Lower Palces to Match Fills
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+System Defaults
+N
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+System Administrator
+Y
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+Manager
+N
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+Portfolio Assistant
+N
+Place & Fill Orders
+Trade
+The ability to record working and executed shares for orders.
+Head Trader
+Y
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+Trader
+Y
+Route Orders via FIX
+Trade
+The ability to route orders via FIX.
+Data Import
+N
+Close and Lower Targets
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+System Defaults
+N
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+System Administrator
+Y
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+Manager
+N
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+Portfolio Assistant
+N
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+Head Trader
+Y
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+Trader
+N
+Lower Places to Match Fills
+Trade
+The ability to lower places to match fills.
+Data Import
+N
+Close and Split off Remainder
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+System Defaults
+N
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+System Administrator
+Y
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+Manager
+N
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+Portfolio Assistant
+N
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+Head Trader
+Y
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+Trader
+N
+Close and Lower Targets
+Trade
+The ability to close and lower targets.
+Data Import
+N
+Lower Places Close an Split
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+System Defaults
+N
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+System Administrator
+Y
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+Manager
+N
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+Portfolio Assistant
+N
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+Head Trader
+Y
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+Trader
+N
+Close and Split off Remainder
+Trade
+The ability to close orders and split off remainder.
+Data Import
+N
+Place & Fill Orders
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+System Defaults
+N
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+System Administrator
+Y
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+Manager
+N
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+Portfolio Assistant
+N
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+Head Trader
+Y
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+Trader
+N
+Lower Places Close and Split
+Trade
+The ability to lower places, close and split off remainder.
+Data Import
+N
+Route Orders via FIX
+Modify
+Unapproved Orders
+Trading Information
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Defaults
+N
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Administrator
+Y
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Manager
+Y
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Portfolio Assistant
+Y
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Head Trader
+N
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Trader
+N
+Trading Information
+Modify
+The ability to change trading information for unapproved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Data Import
+N
+Manager  Information
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Defaults
+N
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Administrator
+Y
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Manager
+Y
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Portfolio Assistant
+Y
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Head Trader
+N
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Trader
+N
+Manager Information
+Modify
+The ability to change manager information for unapproved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Data Import
+N
+Portfolio Detail
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+System Defaults
+N
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+System Administrator
+Y
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+Manager
+Y
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+Portfolio Assistant
+Y
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+Head Trader
+N
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+Trader
+N
+Portfolio Detail
+Modify
+The ability to change portfolio detail for unapproved orders.
+Data Import
+N
+Delete Orders
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+System Defaults
+N
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+System Administrator
+Y
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+Manager
+Y
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+Portfolio Assistant
+Y
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+Head Trader
+N
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+Trader
+N
+Delete Orders
+Modify
+The ability to delete unapproved orders.
+Data Import
+N
+Merge Orders
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+System Defaults
+N
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+System Administrator
+Y
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+Manager
+N
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+Portfolio Assistant
+N
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+Head Trader
+Y
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+Trader
+Y
+Merge Orders
+Modify
+The ability to merge unapproved orders.
+Data Import
+N
+Unvalue Orders
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+System Defaults
+N
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+System Administrator
+Y
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+Manager
+Y
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+Portfolio Assistant
+N
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+Head Trader
+N
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+Trader
+N
+Unvalue Orders
+Modify
+The ability to move unapproved orders out of valuation.
+Data Import
+N
+Approved Orders
+Trading Information
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Defaults
+N
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Administrator
+Y
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Manager
+N
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Portfolio Assistant
+N
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Head Trader
+Y
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Trader
+Y
+Trading Information
+Modify
+The ability to change trading information for approved orders. Trading information excludes Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Data Import
+N
+Manager  Information
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Defaults
+N
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+System Administrator
+Y
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Manager
+Y
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Portfolio Assistant
+N
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Head Trader
+Y
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Trader
+Y
+Manager Information
+Modify
+The ability to change manager information for approved orders. Manager information consists of Internal Comment, Talk To Me, and User Defined 1-3 fields.
+Data Import
+N
+Portfolio Detail
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+System Defaults
+N
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+System Administrator
+Y
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+Manager
+N
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+Portfolio Assistant
+N
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+Head Trader
+Y
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+Trader
+Y
+Portfolio Detail
+Modify
+The ability to change portfolio detail for approved orders.
+Data Import
+N
+Delete Orders
+Delete Orders
+Modify
+The ability to delete approved orders.
+System Defaults
+N
+Delete Orders
+Modify
+The ability to delete approved orders.
+System Administrator
+Y
+Delete Orders
+Modify
+The ability to delete approved orders.
+Manager
+N
+Delete Orders
+Modify
+The ability to delete approved orders.
+Portfolio Assistant
+N
+Delete Orders
+Modify
+The ability to delete approved orders.
+Head Trader
+Y
+Delete Orders
+Modify
+The ability to delete approved orders.
+Trader
+Y
+Delete Orders
+Modify
+The ability to delete approved orders.
+Data Import
+N
+Merge Orders
+Merge Orders
+Modify
+The ability to merge approved orders.
+System Defaults
+N
+Merge Orders
+Modify
+The ability to merge approved orders.
+System Administrator
+Y
+Merge Orders
+Modify
+The ability to merge approved orders.
+Manager
+N
+Merge Orders
+Modify
+The ability to merge approved orders.
+Portfolio Assistant
+N
+Merge Orders
+Modify
+The ability to merge approved orders.
+Head Trader
+Y
+Merge Orders
+Modify
+The ability to merge approved orders.
+Trader
+Y
+Merge Orders
+Modify
+The ability to merge approved orders.
+Data Import
+N
+Unvalue Orders
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+System Defaults
+N
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+System Administrator
+Y
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+Manager
+Y
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+Portfolio Assistant
+N
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+Head Trader
+N
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+Trader
+N
+Unvalue Orders
+Modify
+The ability to move approved orders out of valuation.
+Data Import
+N
+Detail, chg Target
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+System Defaults
+N
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+System Administrator
+Y
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+Manager
+N
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+Portfolio Assistant
+N
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+Head Trader
+N
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+Trader
+N
+Detail, chg Target
+Modify
+If the user changes a target in portfolio detail, the order's target reflects the new total.
+Data Import
+N
+Modify Target Column
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+System Defaults
+N
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+System Administrator
+Y
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+Manager
+Y
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+Portfolio Assistant
+Y
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+Head Trader
+Y
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+Trader
+Y
+Modify Target Column
+Modify
+The ability to change an order target by an edit on the trade screen.
+Data Import
+N
+Modify Symbol Column
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+System Defaults
+N
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+System Administrator
+Y
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+Manager
+Y
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+Portfolio Assistant
+Y
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+Head Trader
+Y
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+Trader
+Y
+Modify Symbol Column
+Modify
+The ability to change an order's symbol by an edit on the trade screen.
+Data Import
+N
+Allocate
+Allocation Screen
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+System Defaults
+N
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+System Administrator
+Y
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+Manager
+N
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+Portfolio Assistant
+N
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+Head Trader
+Y
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+Trader
+Y
+Quick Allocate
+Allocate
+The ability to quick allocate orders.
+Data Import
+N
+Pro Rata Allocation
+Deallocate
+Allocate
+The ability to deallocate orders.
+System Defaults
+N
+Deallocate
+Allocate
+The ability to deallocate orders.
+System Administrator
+Y
+Deallocate
+Allocate
+The ability to deallocate orders.
+Manager
+N
+Deallocate
+Allocate
+The ability to deallocate orders.
+Portfolio Assistant
+N
+Deallocate
+Allocate
+The ability to deallocate orders.
+Head Trader
+Y
+Deallocate
+Allocate
+The ability to deallocate orders.
+Trader
+Y
+Deallocate
+Allocate
+The ability to deallocate orders.
+Data Import
+N
+Sequent. Allocation
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+System Defaults
+N
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+System Administrator
+Y
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+Manager
+N
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+Portfolio Assistant
+N
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+Head Trader
+Y
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+Trader
+Y
+Pro Rata Allocation
+Allocate
+The ability to allocate shares to portfolios via the pro rata method.
+Data Import
+N
+Random Allocation
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+System Defaults
+N
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+System Administrator
+Y
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+Manager
+N
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+Portfolio Assistant
+N
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+Head Trader
+Y
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+Trader
+Y
+Sequent. Allocation
+Allocate
+The ability to allocate shares to portfolios in sequential order.
+Data Import
+N
+Leveling Allocation
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+System Defaults
+N
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+System Administrator
+Y
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+Manager
+N
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+Portfolio Assistant
+N
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+Head Trader
+Y
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+Trader
+Y
+Random Allocation
+Allocate
+The ability to allocate shares to portfolios in a random fashion.
+Data Import
+N
+Manual Allocation
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+System Defaults
+N
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+System Administrator
+Y
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+Manager
+N
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+Portfolio Assistant
+N
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+Head Trader
+Y
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+Trader
+Y
+Leveling Allocation
+Allocate
+The ability to allocate shares to portfolios and level the percentage holding.
+Data Import
+N
+Allocate/Edit Fills
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+System Defaults
+N
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+System Administrator
+Y
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+Manager
+N
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+Portfolio Assistant
+N
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+Head Trader
+Y
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+Trader
+Y
+Allocate/Edit Fills
+Allocate
+The ability to enter shares or edit the number of shares in the 'This Fill' column in a Fill Detail or the Allocation Screen.
+Data Import
+N
+Edit Non-Share Info.
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+System Defaults
+N
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+System Administrator
+Y
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+Manager
+N
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+Portfolio Assistant
+N
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+Head Trader
+Y
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+Trader
+Y
+Edit Non-Share Info.
+Allocate
+The ability to edit information in columns other than 'This Fill' in a Fill Detail or the Allocation Screen.
+Data Import
+N
+Quick Allocate
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+System Defaults
+N
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+System Administrator
+Y
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+Manager
+N
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+Portfolio Assistant
+N
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+Head Trader
+Y
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+Trader
+Y
+Show All on TS
+Portfolio Access
+On the Trade Screen, display all orders, even if user does not have access to all portfolios in portfolio detail.
+Data Import
+N
+Deallocate
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+System Defaults
+N
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+System Administrator
+Y
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+Manager
+N
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+Portfolio Assistant
+N
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+Head Trader
+Y
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+Trader
+Y
+Allocate w/o Full via AS
+Portfolio Access
+On the Allocation Screen, the ability to allocate an order without access to all portfolios in the order's portfolio detail.
+Data Import
+N
+Portfolio Access
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+System Defaults
+N
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+System Administrator
+Y
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+Manager
+N
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+Portfolio Assistant
+N
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+Head Trader
+Y
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+Trader
+Y
+Allocate w/o Full via QA
+Portfolio Access
+The ability to quick allocate an order without access to all portfolios in the order's portfolio detail.
+Data Import
+N
+Allocations
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+System Defaults
+N
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+System Administrator
+Y
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+Manager
+N
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+Portfolio Assistant
+N
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+Head Trader
+Y
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+Trader
+Y
+Deallocate w/o Full
+Portfolio Access
+The ability to deallocate an order without access to all portfolios in the order's portfolio detail.
+Data Import
+N
+Allocate w/o Full via AS
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+System Defaults
+Y
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+System Administrator
+Y
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+Manager
+N
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+Portfolio Assistant
+N
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+Head Trader
+Y
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+Trader
+Y
+Unapproved
+New Orders
+Display a warning if another user creates an unapproved order on the network.
+Data Import
+Y
+Allocate w/o Full via QA
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+System Defaults
+Y
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+System Administrator
+Y
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+Manager
+N
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+Portfolio Assistant
+N
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+Head Trader
+Y
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+Trader
+Y
+Recv. Notification
+New Orders
+Display a notice for all new orders.
+Data Import
+Y
+Deallocate w/o Full
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+System Defaults
+Y
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+System Administrator
+Y
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+Manager
+N
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+Portfolio Assistant
+N
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+Head Trader
+Y
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+Trader
+Y
+Interrupt Work
+New Orders
+Lock desktop until user presses ENTER to acknowledge new order notice.
+Data Import
+Y
+Show All on TS
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+System Defaults
+Y
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+System Administrator
+Y
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+Manager
+N
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+Portfolio Assistant
+N
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+Head Trader
+Y
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+Trader
+Y
+Display in Othr Apps
+New Orders
+Display new order notice in applications other than dbo.Moxy.
+Data Import
+Y
+Warnings
+This level contains the rights to control new order notices, warnings, and other messages.
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+System Defaults
+Y
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+System Administrator
+Y
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+Manager
+N
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+Portfolio Assistant
+N
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+Head Trader
+Y
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+Trader
+Y
+Fill > Place
+Order Out of Balance
+Display a warning if user enters a fill quantity greater than the place quantity.
+Data Import
+Y
+New Orders
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+System Defaults
+Y
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+System Administrator
+Y
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+Manager
+N
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+Portfolio Assistant
+N
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+Head Trader
+Y
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+Trader
+Y
+Place > Target
+Order Out of Balance
+Display a warning if user enters a place quantity greater than the target quantity.
+Data Import
+Y
+Unapproved
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+System Defaults
+Y
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+System Administrator
+Y
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+Manager
+N
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+Portfolio Assistant
+N
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+Head Trader
+Y
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+Trader
+Y
+Preallocations exist
+Order Out of Balance
+Display a warning if other preallocations exist for the security for which user is creating an order.
+Data Import
+Y
+Recv. Notification
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+System Defaults
+Y
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+System Administrator
+Y
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+Manager
+Y
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+Portfolio Assistant
+Y
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+Head Trader
+Y
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+Trader
+Y
+On Assignment
+Broker Conflicts
+Display a warning if user places an order for a security when a different broker is working another order for the same security.
+Data Import
+Y
+Interrupt Work
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+System Defaults
+Y
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+System Administrator
+Y
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+Manager
+Y
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+Portfolio Assistant
+Y
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+Head Trader
+Y
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+Trader
+Y
+With Directed Broker
+Broker Conflicts
+Display a warning if user creates an order where broker is not the same as the directed broker for a portfolio in portfolio detail.
+Data Import
+Y
+Display in Othr Apps 
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+System Defaults
+Y
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+System Administrator
+Y
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+Manager
+Y
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+Portfolio Assistant
+Y
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+Head Trader
+Y
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+Trader
+Y
+Multiple Direction
+Broker Conflicts
+Display a warning if when portfolios attached to the order have multiple directed brokers and user has not selected a broker for the portfolio.
+Data Import
+Y
+Order Out of Balance
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+System Defaults
+Y
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+System Administrator
+Y
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+Manager
+N
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+Portfolio Assistant
+N
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+Head Trader
+N
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+Trader
+N
+End Moxy Session
+Miscellaneous
+Display request to confirm exiting dbo.Moxy.
+Data Import
+Y
+Fill > Place
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+System Defaults
+Y
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+System Administrator
+Y
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+Manager
+Y
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+Portfolio Assistant
+Y
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+Head Trader
+Y
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+Trader
+Y
+Chg to System Info
+Miscellaneous
+Display request to confirm changes to system information.
+Data Import
+Y
+Place > Target
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+System Defaults
+Y
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+System Administrator
+Y
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+Manager
+Y
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+Portfolio Assistant
+Y
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+Head Trader
+Y
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+Trader
+Y
+FIX Service Status
+Miscellaneous
+Display a warning when the FIX service is not running.
+Data Import
+Y
+Preallocations exist
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+System Defaults
+Y
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+System Administrator
+Y
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+Manager
+Y
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+Portfolio Assistant
+Y
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+Head Trader
+Y
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+Trader
+Y
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+Data Import
+Y
+Broker Conflicts
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+System Defaults
+Y
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+System Administrator
+Y
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+Manager
+Y
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+Portfolio Assistant
+Y
+On Merging of Orders
+Miscellaneous
+Display a warning if user merges orders with different limits or instructions.
+Head Trader
+Y
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+Trader
+Y
+Close Against Pledged Lots
+Miscellaneous
+Control whether users can select shares from pledged lots on closing transactions.
+Data Import
+N
+On Assignment
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+System Defaults
+N
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+System Administrator
+Y
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+Manager
+N
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+Portfolio Assistant
+N
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+Head Trader
+N
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+Trader
+N
+Wash Sale
+Restriction Checking
+Check whether an order violates a portfolio's Wash Sale restrictions.
+Data Import
+N
+With Directed Broker
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+System Defaults
+Y
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+System Administrator
+Y
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+Manager
+Y
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+Portfolio Assistant
+Y
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+Head Trader
+Y
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+Trader
+Y
+Trading
+Restriction Checking
+Check whether an order violates trading restrictions assigned to a portfolio.
+Data Import
+Y
+Multiple Direction
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+System Defaults
+Y
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+System Administrator
+Y
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+Manager
+Y
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+Portfolio Assistant
+Y
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+Head Trader
+Y
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+Trader
+Y
+Composition
+Restriction Checking
+Check whether an order violates composition restrictions assigned to a portfolio.
+Data Import
+Y
+Miscellaneous
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+System Defaults
+N
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+System Administrator
+Y
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+Manager
+N
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+Portfolio Assistant
+N
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+Head Trader
+N
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+Trader
+N
+Cash Buffer
+Restriction Checking
+Check whether an order violates a portfolio's cash buffer restrictions.
+Data Import
+N
+Close Against Pledged Lots
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+System Defaults
+N
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+System Administrator
+Y
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+Manager
+N
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+Portfolio Assistant
+N
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+Head Trader
+N
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+Trader
+N
+Pledged Securities
+Restriction Checking
+Check whether an order violates a portfolio's pledged security restrictions.
+Data Import
+N
+On Merging of Orders
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+System Defaults
+Y
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+System Administrator
+Y
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+Manager
+Y
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+Portfolio Assistant
+Y
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+Head Trader
+Y
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+Trader
+Y
+Buy List
+Restriction Checking
+Check whether an order violates a portfolio's buy list restrictions.
+Data Import
+Y
+End Moxy Session
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+System Defaults
+N
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+System Administrator
+Y
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+Manager
+Y
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+Portfolio Assistant
+N
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+Head Trader
+N
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+Trader
+N
+Override Restrictions
+Restriction Checking
+The ability to override a overridable restriction.
+Data Import
+N
+Chg to System Info
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+System Defaults
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+System Administrator
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+Manager
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+Portfolio Assistant
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+Head Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an Allocation Strategy generates trade proposals or a portfolio is added to an order's Pre-Allocation Detail.  Or when trade proposals are entered via Quick Order, COE, Trade Screen, and Trade Views.
+Data Import
+Y
+FIX Service Status
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+System Defaults
+Y
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+System Administrator
+Y
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+Manager
+Y
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+Portfolio Assistant
+Y
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+Head Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when a Rebalance Strategy generates trade proposals within a Model or Portfolio Manager session.
+Data Import
+Y
+Restriction Checking
+This level contains the rights to control restriction checking in dbo.Moxy.
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+System Defaults
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+System Administrator
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+Manager
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+Portfolio Assistant
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+Head Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when user edits trade proposals in an Allocation Strategy,Quick Order, COE, Trade Screen, Trade View, or Pre-Allocation Detail.
+Data Import
+Y
+Custom Restrictions
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+System Defaults
+Y
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+System Administrator
+Y
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+Manager
+Y
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+Portfolio Assistant
+Y
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+Head Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when user manually creates or edits trade proposals within a Model or Portfolio Manager Session.
+Data Import
+Y
+Check at:
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+System Defaults
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+System Administrator
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+Manager
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+Portfolio Assistant
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+Head Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from an Allocation Strategy, Quick Order, COE, Trade Screen, or Trade View.
+Data Import
+Y
+Preallocation
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+System Defaults
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+System Administrator
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+Manager
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+Portfolio Assistant
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+Head Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are commited from a Model or Portfolio Manager Session.
+Data Import
+Y
+Run
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+System Defaults
+N
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+System Administrator
+Y
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+Manager
+N
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+Portfolio Assistant
+N
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+Head Trader
+N
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+Trader
+N
+Set Broker
+Restriction Checking
+Check for restrictions when the broker is set or modified.
+Data Import
+N
+Alloc. Strategy & Quick Order
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+System Defaults
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+System Administrator
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+Manager
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+Portfolio Assistant
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+Head Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when orders are committed from a Quick Order, COE, Trade Screen, Order View, Allocation Strategy, or Pre-Allocation view in an "Approved" state.
+Data Import
+Y
+Rebalance
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+System Defaults
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+System Administrator
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+Manager
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+Portfolio Assistant
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+Head Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when orders are committed from a Model or Portfolio Manager Session in an "Approved" state.
+Data Import
+Y
+Edit
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+System Defaults
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+System Administrator
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+Manager
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+Portfolio Assistant
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+Head Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+Trader
+Y
+Alloc. Strategy & Quick Order
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuation" in a Quick Order, Trade Screen, COE, Trade View, Allocation Strategy, Pre-Allocation Detail, or Allocation Detail.
+Data Import
+Y
+Alloc. Strategy & Quick Order
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+System Defaults
+Y
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+System Administrator
+Y
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+Manager
+Y
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+Portfolio Assistant
+Y
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+Head Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+Trader
+Y
+Rebalance
+Restriction Checking
+Check restrictions when an order's allocation status is set to "Include into Valuaiton" in a Model or Portfolio Manager session.
+Data Import
+Y
+Rebalance
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+System Defaults
+Y
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+System Administrator
+Y
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+Manager
+Y
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+Portfolio Assistant
+Y
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+Head Trader
+Y
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+Trader
+Y
+Create
+Restriction Checking
+Check for restrictions when user creates allocations for an order.
+Data Import
+Y
+Commit
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+System Defaults
+Y
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+System Administrator
+Y
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+Manager
+Y
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+Portfolio Assistant
+Y
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+Head Trader
+Y
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+Trader
+Y
+Edit
+Restriction Checking
+Check for restrictions when user edits allocations for an order.
+Data Import
+Y
+Alloc. Strategy & Quick Order
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+System Defaults
+Y
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+System Administrator
+Y
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+Manager
+Y
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+Portfolio Assistant
+Y
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+Head Trader
+Y
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+Trader
+Y
+Approve
+Restriction Checking
+Check for restrictions when user approves allocations for an order.
+Data Import
+Y
+Rebalance
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+System Defaults
+N
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+System Administrator
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+Manager
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+Portfolio Assistant
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+Head Trader
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+Trader
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Ticket report.
+Data Import
+N
+Order
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+System Defaults
+N
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+System Administrator
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+Manager
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+Portfolio Assistant
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+Head Trader
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+Trader
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket report.
+Data Import
+N
+Approval
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+System Defaults
+N
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+System Administrator
+Y
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+Manager
+Y
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+Portfolio Assistant
+Y
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+Head Trader
+Y
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+Trader
+Y
+By Portfolio
+Ticket Reports
+The ability to use the Trade Pre-Allocation Ticket by Portfolio report.
+Data Import
+N
+Alloc. Strategy & Quick Order
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+System Defaults
+N
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+System Administrator
+Y
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+Manager
+Y
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+Portfolio Assistant
+Y
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+Head Trader
+Y
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+Trader
+Y
+by Security
+Ticket Reports
+The ability to use the Trade Pre-Allocation Multi Portfolio & Security report.
+Data Import
+N
+Rebalance
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+System Defaults
+N
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+System Administrator
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+Manager
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+Portfolio Assistant
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+Head Trader
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+Trader
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut PreAllocation Ticket report.
+Data Import
+N
+Into Valuation
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+System Defaults
+N
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+System Administrator
+Y
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+Manager
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+Portfolio Assistant
+Y
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+Head Trader
+Y
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+Trader
+Y
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+Data Import
+N
+Alloc. Strategy & Quick Order
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+System Defaults
+N
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+System Administrator
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+Manager
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+Portfolio Assistant
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+Head Trader
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+Trader
+Y
+Ticket
+Ticket Reports
+The ability to use the Trade Allocation Ticket report.
+Data Import
+N
+Rebalance
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+System Defaults
+N
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+System Administrator
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+Manager
+Y
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+Portfolio Assistant
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+Head Trader
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+Trader
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Trade Allocation by Portfolio report.
+Data Import
+N
+Set Broker
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+System Defaults
+N
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+System Administrator
+Y
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+Manager
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+Portfolio Assistant
+Y
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+Head Trader
+Y
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+Trader
+Y
+Port. Security
+Ticket Reports
+The ability to use the Trade Allocation Multi Portfolio & Security report.
+Data Import
+N
+Allocation
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+System Defaults
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+System Administrator
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+Manager
+Y
+Syndicate
+Ticket Reports
+The ability to use the Syndicate Allocation report.
+Portfolio Assistant
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+Head Trader
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+Trader
+Y
+StepOut
+Ticket Reports
+The ability to use the StepOut Allocation Ticket for Clearing Brokers report.
+Data Import
+N
+Create
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+System Defaults
+N
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+System Administrator
+Y
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+Manager
+Y
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+Portfolio Assistant
+Y
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+Head Trader
+Y
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+Trader
+Y
+by Order
+Ticket Reports
+The ability to use the Custodian Notification by Order report.
+Data Import
+N
+Edit 
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+System Defaults
+N
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+System Administrator
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+Manager
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+Portfolio Assistant
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+Head Trader
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+Trader
+Y
+by Portfolio
+Ticket Reports
+The ability to use the Custodian Notification by Portfolio report.
+Data Import
+N
+Approve
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+System Defaults
+N
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+System Administrator
+Y
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+Manager
+Y
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+Portfolio Assistant
+Y
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+Head Trader
+Y
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+Trader
+Y
+International
+Ticket Reports
+The ability to use the International Custodian Notification report.
+Data Import
+N
+Wash Sale
+Detail
+Order Reports
+The ability to use the Order Detail report.
+System Defaults
+N
+Detail
+Order Reports
+The ability to use the Order Detail report.
+System Administrator
+Y
+Detail
+Order Reports
+The ability to use the Order Detail report.
+Manager
+N
+Detail
+Order Reports
+The ability to use the Order Detail report.
+Portfolio Assistant
+N
+Detail
+Order Reports
+The ability to use the Order Detail report.
+Head Trader
+Y
+Detail
+Order Reports
+The ability to use the Order Detail report.
+Trader
+Y
+Detail
+Order Reports
+The ability to use the Order Detail report.
+Data Import
+N
+Trading
+Status
+Order Reports
+The ability to use the Order Status report.
+System Defaults
+N
+Status
+Order Reports
+The ability to use the Order Status report.
+System Administrator
+Y
+Status
+Order Reports
+The ability to use the Order Status report.
+Manager
+N
+Status
+Order Reports
+The ability to use the Order Status report.
+Portfolio Assistant
+N
+Status
+Order Reports
+The ability to use the Order Status report.
+Head Trader
+Y
+Status
+Order Reports
+The ability to use the Order Status report.
+Trader
+Y
+Status
+Order Reports
+The ability to use the Order Status report.
+Data Import
+N
+Composition
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+System Defaults
+N
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+System Administrator
+Y
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+Manager
+N
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+Portfolio Assistant
+N
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+Head Trader
+Y
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+Trader
+Y
+Execution
+Order Reports
+The ability to use the Execution Detail by Order report.
+Data Import
+N
+Cash Buffer
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+System Defaults
+N
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+System Administrator
+Y
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+Manager
+N
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+Portfolio Assistant
+N
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+Head Trader
+Y
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+Trader
+Y
+Elect.Routing
+Order Reports
+The ability to use the Electronic Order Routing Status report.
+Data Import
+N
+Pledged Securities
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+System Defaults
+N
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+System Administrator
+Y
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+Manager
+N
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+Portfolio Assistant
+N
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+Head Trader
+Y
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+Trader
+Y
+Exec.Recap
+Order Reports
+The ability to use the Execution Recap report.
+Data Import
+N
+Buy List
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+System Defaults
+N
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+System Administrator
+Y
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+Manager
+Y
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+Portfolio Assistant
+Y
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+Head Trader
+Y
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+Trader
+Y
+Portfolio
+Internal Reports
+The ability to use the Pending Trades report.
+Data Import
+N
+Override Restrictions
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+System Defaults
+N
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+System Administrator
+Y
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+Manager
+Y
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+Portfolio Assistant
+Y
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+Head Trader
+Y
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+Trader
+Y
+Appraisal
+Internal Reports
+The ability to use the Pending Trades by Portfolio Appraisal report.
+Data Import
+N
+Report Access
+This level contains the rights to use reports.
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+System Defaults
+N
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+System Administrator
+Y
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+Manager
+Y
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+Portfolio Assistant
+Y
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+Head Trader
+Y
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+Trader
+Y
+Cash Bal.
+Internal Reports
+The ability to use the Pending Trades by Cash Balances report.
+Data Import
+N
+Ticket Reports
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+System Defaults
+N
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+System Administrator
+Y
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+Manager
+Y
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+Portfolio Assistant
+Y
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+Head Trader
+Y
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+Trader
+Y
+Portfolio
+Internal Reports
+The ability to use the Allocation Detail by Portfolio report.
+Data Import
+N
+Pre-Alloc
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+System Defaults
+N
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+System Administrator
+Y
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+Manager
+Y
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+Portfolio Assistant
+Y
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+Head Trader
+Y
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+Trader
+Y
+Symbol
+Internal Reports
+The ability to use the Allocation Detail by Symbol report.
+Data Import
+N
+Ticket
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+System Defaults
+N
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+System Administrator
+Y
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+Manager
+Y
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+Portfolio Assistant
+Y
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+Head Trader
+N
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+Trader
+N
+Intraday
+Portfolio Reports
+The ability to use the Intraday Appraisal report.
+Data Import
+N
+By Portfolio
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+System Defaults
+N
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+System Administrator
+Y
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+Manager
+Y
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+Portfolio Assistant
+Y
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+Head Trader
+N
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+Trader
+N
+Intraday Ugain
+Portfolio Reports
+The ability to use the Intraday Appraisal With Unrealized Gains report.
+Data Import
+N
+Port. Security
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+System Defaults
+N
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+System Administrator
+Y
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+Manager
+Y
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+Portfolio Assistant
+Y
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+Head Trader
+N
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+Trader
+N
+Intraday Rgain
+Portfolio Reports
+The ability to use the Intraday Realized Gains report.
+Data Import
+N
+StepOut
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+System Defaults
+N
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+System Administrator
+Y
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+Manager
+Y
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+Portfolio Assistant
+Y
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+Head Trader
+N
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+Trader
+N
+Intraday AUM
+Portfolio Reports
+The ability to use the Intraday Appraisal Under Management report.
+Data Import
+N
+Inv.Program
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+System Defaults
+N
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+System Administrator
+Y
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+Manager
+Y
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+Portfolio Assistant
+Y
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+Head Trader
+N
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+Trader
+N
+Cash Bal.
+Portfolio Reports
+The ability to use the Cash Balances Per Portfolio report.
+Data Import
+N
+Alloc
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+System Defaults
+N
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+System Administrator
+Y
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+Manager
+Y
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+Portfolio Assistant
+Y
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+Head Trader
+N
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+Trader
+N
+Cross Ref.
+Portfolio Reports
+The ability to use the Security Cross Reference report.
+Data Import
+N
+Syndicate
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+System Defaults
+N
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+System Administrator
+Y
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+Manager
+Y
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+Portfolio Assistant
+Y
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+Head Trader
+N
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+Trader
+N
+Exc. Cross Ref.
+Portfolio Reports
+The ability to use the Security Exclusion Cross Reference report.
+Data Import
+N
+Ticket
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+System Defaults
+N
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+System Administrator
+Y
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+Manager
+Y
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+Portfolio Assistant
+Y
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+Head Trader
+N
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+Trader
+N
+Omnibus Info.
+Portfolio Reports
+The ability to use the Omnibus Information By Portfolio report.
+Data Import
+N
+By Portfolio
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+System Defaults
+N
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+System Administrator
+Y
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+Manager
+Y
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+Portfolio Assistant
+Y
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+Head Trader
+Y
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+Trader
+Y
+Inv.Program
+Portfolio Reports
+The ability to use the Investment Program report.
+Data Import
+N
+Port. Security
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+System Defaults
+N
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+System Administrator
+Y
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+Manager
+N
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+Portfolio Assistant
+N
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+Head Trader
+N
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+Trader
+N
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+Data Import
+N
+StepOut
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+System Defaults
+N
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+System Administrator
+Y
+Appr. Orders
+Audit Reports
+The ability to use the Audit Approved Orders report.
+Manager
+N
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+Portfolio Assistant
+N
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+Head Trader
+N
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+Trader
+N
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+Data Import
+N
+Cust Notify
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+System Defaults
+N
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+System Administrator
+Y
+Placed Orders
+Audit Reports
+The ability to use the Audit Placed Orders report.
+Manager
+N
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+Portfolio Assistant
+N
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+Head Trader
+N
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+Trader
+N
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+Data Import
+N
+By Order
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+System Defaults
+N
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+System Administrator
+Y
+Executions
+Audit Reports
+The ability to use the Audit Executions report.
+Manager
+N
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+Portfolio Assistant
+N
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+Head Trader
+N
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+Trader
+N
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+Data Import
+N
+By Portfolio
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+System Defaults
+N
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+System Administrator
+Y
+Cash Db/Cr
+Audit Reports
+The ability to use the Audit Cash Debit/Credit report.
+Manager
+N
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+Portfolio Assistant
+N
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+Head Trader
+N
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+Trader
+N
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+Data Import
+N
+International
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+System Defaults
+N
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+System Administrator
+Y
+Alloc
+Audit Reports
+The ability to use the Audit Allocation report.
+Manager
+N
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+Portfolio Assistant
+N
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+Head Trader
+N
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+Trader
+N
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+Data Import
+N
+Ticket
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+System Defaults
+N
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+System Administrator
+Y
+Prealloc
+Audit Reports
+The ability to use the Audit Preallocations report.
+Manager
+N
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+Portfolio Assistant
+N
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+Head Trader
+N
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+Trader
+N
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+Data Import
+N
+Order Reports
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+System Defaults
+N
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+System Administrator
+Y
+Orders
+Audit Reports
+The ability to use the Audit Orders report.
+Manager
+N
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+Portfolio Assistant
+Y
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+Head Trader
+Y
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+Trader
+Y
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+Data Import
+N
+Detail
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+System Defaults
+N
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+System Administrator
+Y
+AllocSummary
+Audit Reports
+The ability to use the Audit Allocation Summary report.
+Manager
+Y
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+Portfolio Assistant
+Y
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+Head Trader
+Y
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+Trader
+Y
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+Data Import
+N
+Status
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+System Defaults
+N
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+System Administrator
+Y
+Alloc Tkt
+Audit Reports
+The ability to use the Audit Allocation Ticket report.
+Manager
+Y
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+Portfolio Assistant
+N
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+Head Trader
+N
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+Trader
+N
+Orders5X
+Audit Reports
+The ability to use the Audit Orders 5.x report.
+Data Import
+N
+Execution
+Info
+System Reports
+The ability to use the Portfolio Information report.
+System Defaults
+N
+Info
+System Reports
+The ability to use the Portfolio Information report.
+System Administrator
+Y
+Info
+System Reports
+The ability to use the Portfolio Information report.
+Manager
+Y
+Info
+System Reports
+The ability to use the Portfolio Information report.
+Portfolio Assistant
+Y
+Info
+System Reports
+The ability to use the Portfolio Information report.
+Head Trader
+Y
+Info
+System Reports
+The ability to use the Portfolio Information report.
+Trader
+Y
+Info
+System Reports
+The ability to use the Portfolio Information report.
+Data Import
+N
+Elect.Routing
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+System Defaults
+N
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+System Administrator
+Y
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+Manager
+Y
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+Portfolio Assistant
+Y
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+Head Trader
+Y
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+Trader
+Y
+Brkr Acct #
+System Reports
+The ability to use the Broker Acct # by Portfolio report.
+Data Import
+N
+Exec.Recap
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+System Defaults
+N
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+System Administrator
+Y
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+Manager
+Y
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+Portfolio Assistant
+Y
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+Head Trader
+Y
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+Trader
+Y
+Restrictions
+System Reports
+The ability to use the Trading Restrictions by Portfolio report.
+Data Import
+N
+Internal Reports
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+System Defaults
+N
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+System Administrator
+Y
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+Manager
+Y
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+Portfolio Assistant
+Y
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+Head Trader
+Y
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+Trader
+Y
+Restrictions Overridden
+System Reports
+The ability to use the Trading Restrictions Overridden report.
+Data Import
+N
+Pend. Trades by
+Info
+System Reports
+The ability to use the Broker Information report.
+System Defaults
+N
+Info
+System Reports
+The ability to use the Broker Information report.
+System Administrator
+Y
+Info
+System Reports
+The ability to use the Broker Information report.
+Manager
+Y
+Info
+System Reports
+The ability to use the Broker Information report.
+Portfolio Assistant
+Y
+Info
+System Reports
+The ability to use the Broker Information report.
+Head Trader
+Y
+Info
+System Reports
+The ability to use the Broker Information report.
+Trader
+Y
+Info
+System Reports
+The ability to use the Broker Information report.
+Data Import
+N
+Portfolio
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+System Defaults
+N
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+System Administrator
+Y
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+Manager
+Y
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+Portfolio Assistant
+Y
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+Head Trader
+Y
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+Trader
+Y
+Omnibus Acct
+System Reports
+The ability to use the Omnibus Acct # by Broker report.
+Data Import
+N
+Appraisal
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+System Defaults
+N
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+System Administrator
+Y
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+Manager
+Y
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+Portfolio Assistant
+Y
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+Head Trader
+Y
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+Trader
+Y
+Rep Info
+System Reports
+The ability to use the Broker Representative Information report.
+Data Import
+N
+Cash Bal.
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+System Defaults
+N
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+System Administrator
+Y
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+Manager
+Y
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+Portfolio Assistant
+Y
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+Head Trader
+Y
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+Trader
+Y
+Schedule
+System Reports
+The ability to use the Commission Schedule report.
+Data Import
+N
+Alloc Detail by
+Types
+System Reports
+The ability to use the Commission Types report.
+System Defaults
+N
+Types
+System Reports
+The ability to use the Commission Types report.
+System Administrator
+Y
+Types
+System Reports
+The ability to use the Commission Types report.
+Manager
+Y
+Types
+System Reports
+The ability to use the Commission Types report.
+Portfolio Assistant
+Y
+Types
+System Reports
+The ability to use the Commission Types report.
+Head Trader
+Y
+Types
+System Reports
+The ability to use the Commission Types report.
+Trader
+Y
+Types
+System Reports
+The ability to use the Commission Types report.
+Data Import
+N
+Portfolio
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+System Defaults
+N
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+System Administrator
+Y
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+Manager
+Y
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+Portfolio Assistant
+Y
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+Head Trader
+Y
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+Trader
+Y
+Purpose
+System Reports
+The ability to use the Commission Purpose report.
+Data Import
+N
+Symbol
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+System Defaults
+N
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+System Administrator
+Y
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+Manager
+Y
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+Portfolio Assistant
+Y
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+Head Trader
+Y
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+Trader
+Y
+Concess
+System Reports
+The ability to use the Commissions By Concession Broker report.
+Data Import
+N
+Portfolio Reports
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+System Defaults
+N
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+System Administrator
+Y
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+Manager
+Y
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+Portfolio Assistant
+Y
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+Head Trader
+Y
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+Trader
+Y
+Broker
+System Reports
+The ability to use the Broker Commissions report.
+Data Import
+N
+Inv. Program
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+System Defaults
+N
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+System Administrator
+Y
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+Manager
+Y
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+Portfolio Assistant
+Y
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+Head Trader
+Y
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+Trader
+Y
+Selector
+System Reports
+The ability to use the Commission Schedule Selector report.
+Data Import
+N
+Intraday
+Info
+System Reports
+The ability to use the Custodian report.
+System Defaults
+N
+Info
+System Reports
+The ability to use the Custodian report.
+System Administrator
+Y
+Info
+System Reports
+The ability to use the Custodian report.
+Manager
+Y
+Info
+System Reports
+The ability to use the Custodian report.
+Portfolio Assistant
+Y
+Info
+System Reports
+The ability to use the Custodian report.
+Head Trader
+Y
+Info
+System Reports
+The ability to use the Custodian report.
+Trader
+Y
+Info
+System Reports
+The ability to use the Custodian report.
+Data Import
+N
+Intraday Ugain
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+System Defaults
+N
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+System Administrator
+Y
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+Manager
+Y
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+Portfolio Assistant
+Y
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+Head Trader
+Y
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+Trader
+Y
+Omnibus Info
+System Reports
+The ability to use the Omnibus Information by Custodian report.
+Data Import
+N
+Intraday Rgain
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+System Defaults
+N
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+System Administrator
+Y
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+Manager
+Y
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+Portfolio Assistant
+Y
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+Head Trader
+Y
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+Trader
+Y
+Settle Instr
+System Reports
+The ability to use the Settlement Instructions report.
+Data Import
+N
+Intraday AUM
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+System Defaults
+N
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+System Administrator
+Y
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+Manager
+Y
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+Portfolio Assistant
+Y
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+Head Trader
+Y
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+Trader
+Y
+Fixed Inc
+System Reports
+The ability to use the Fixed Income Security Information report.
+Data Import
+N
+Cash Bal.
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+System Defaults
+N
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+System Administrator
+Y
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+Manager
+Y
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+Portfolio Assistant
+Y
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+Head Trader
+Y
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+Trader
+Y
+Equity
+System Reports
+The ability to use the Equity Security Information report.
+Data Import
+N
+Cross Ref.
+Type
+System Reports
+The ability to use the Security Type report.
+System Defaults
+N
+Type
+System Reports
+The ability to use the Security Type report.
+System Administrator
+Y
+Type
+System Reports
+The ability to use the Security Type report.
+Manager
+Y
+Type
+System Reports
+The ability to use the Security Type report.
+Portfolio Assistant
+Y
+Type
+System Reports
+The ability to use the Security Type report.
+Head Trader
+Y
+Type
+System Reports
+The ability to use the Security Type report.
+Trader
+Y
+Type
+System Reports
+The ability to use the Security Type report.
+Data Import
+N
+Exc. Cross Ref.
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+System Defaults
+N
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+System Administrator
+Y
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+Manager
+Y
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+Portfolio Assistant
+Y
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+Head Trader
+Y
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+Trader
+Y
+FX Rates
+System Reports
+The ability to use the Foreign Exchange Rates report.
+Data Import
+N
+Omnibus Info.
+Price
+System Reports
+The ability to use the Security Price report.
+System Defaults
+N
+Price
+System Reports
+The ability to use the Security Price report.
+System Administrator
+Y
+Price
+System Reports
+The ability to use the Security Price report.
+Manager
+Y
+Price
+System Reports
+The ability to use the Security Price report.
+Portfolio Assistant
+Y
+Price
+System Reports
+The ability to use the Security Price report.
+Head Trader
+Y
+Price
+System Reports
+The ability to use the Security Price report.
+Trader
+Y
+Price
+System Reports
+The ability to use the Security Price report.
+Data Import
+N
+Audit Reports
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+System Defaults
+N
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+System Administrator
+Y
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+Manager
+Y
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+Portfolio Assistant
+Y
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+Head Trader
+Y
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+Trader
+Y
+Port. Access by User
+System Reports
+The ability to use the Portfolio Access by User report.
+Data Import
+N
+Orders5X
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+System Defaults
+N
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+System Administrator
+Y
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+Manager
+Y
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+Portfolio Assistant
+Y
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+Head Trader
+Y
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+Trader
+Y
+User Access by Port.
+System Reports
+The ability to use the User Access By Portfolio report.
+Data Import
+N
+Appr. Orders
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+System Defaults
+N
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+System Administrator
+Y
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+Manager
+Y
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+Portfolio Assistant
+Y
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+Head Trader
+Y
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+Trader
+Y
+Port. Access Information
+System Reports
+The ability to use the Portfolio Access Information report.
+Data Import
+N
+Placed Orders
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+System Defaults
+N
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+System Administrator
+Y
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+Manager
+Y
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+Portfolio Assistant
+Y
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+Head Trader
+Y
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+Trader
+Y
+Func. Security Information
+System Reports
+The ability to use the Functional Security Information report.
+Data Import
+N
+Executions
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+System Defaults
+N
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+System Administrator
+Y
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+Manager
+Y
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+Portfolio Assistant
+Y
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+Head Trader
+Y
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+Trader
+Y
+Func. Security by User
+System Reports
+The ability to use the Functional Security by User report.
+Data Import
+N
+Cash Db/Cr
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+System Defaults
+N
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+System Administrator
+Y
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+Manager
+N
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+Portfolio Assistant
+N
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+Head Trader
+N
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+Trader
+N
+Administrator
+Administration
+The ability to edit Company Settings, remove portfolio groups, and to maintain the Moxy database.
+Data Import
+N
+Alloc
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+System Defaults
+N
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+System Administrator
+Y
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+Manager
+Y
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+Portfolio Assistant
+N
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+Head Trader
+N
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+Trader
+N
+Remove Order Locks
+Administration
+The ability to remove locks on orders.
+Data Import
+N
+Prealloc
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+System Defaults
+N
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+System Administrator
+Y
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+Manager
+N
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+Portfolio Assistant
+N
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+Head Trader
+N
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+Trader
+N
+Import/Maintenance
+Administration
+The ability to import data into Moxy and run maintenance check and repair on the Moxy database. Only users in the System Administrator role and the dbo.MoxyImporter user are allowed to import.
+Data Import
+Y
+Orders
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+System Defaults
+N
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+System Administrator
+Y
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+Manager
+N
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+Portfolio Assistant
+N
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+Head Trader
+Y
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+Trader
+Y
+Export
+Administration
+The ability to export transactions from dbo.Moxy.
+Data Import
+N
+AllocSummary
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+System Defaults
+N
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+System Administrator
+Y
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+Manager
+N
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+Portfolio Assistant
+N
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+Head Trader
+N
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+Trader
+N
+Installed Reports
+Administration
+The ability to use the View/Install Reports feature to add or edit reports in dbo.Moxy.
+Data Import
+N
+Alloc Tkt
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+System Defaults
+N
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+System Administrator
+Y
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+Manager
+N
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+Portfolio Assistant
+N
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+Head Trader
+N
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+Trader
+N
+Portfolio Access
+Administration
+The ability to add or edit portfolio access rights for users.
+Data Import
+N
+System Reports
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+System Defaults
+N
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+System Administrator
+Y
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+Manager
+N
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+Portfolio Assistant
+N
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+Head Trader
+N
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+Trader
+N
+Portfolio Rename
+Administration
+The ability to rename portfolios.
+Data Import
+N
+Portfolio
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+System Defaults
+N
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+System Administrator
+Y
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+Manager
+N
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+Portfolio Assistant
+N
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+Head Trader
+N
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+Trader
+N
+Functional Access
+Administration
+The ability to add or edit functional access rights for users.
+Data Import
+N
+Info
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+System Defaults
+N
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+System Administrator
+Y
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+Manager
+N
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+Portfolio Assistant
+N
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+Head Trader
+N
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+Trader
+N
+Exclusive Access
+Administration
+The ability to put Moxy into 'exclusive access' mode.
+Data Import
+N
+Brkr Acct #
+Rule Access
+Administration
+The ability to access the Rule Manager.
+System Defaults
+N
+Rule Access
+Administration
+The ability to access the Rule Manager.
+System Administrator
+Y
+Rule Access
+Administration
+The ability to access the Rule Manager.
+Manager
+N
+Rule Access
+Administration
+The ability to access the Rule Manager.
+Portfolio Assistant
+N
+Rule Access
+Administration
+The ability to access the Rule Manager.
+Head Trader
+N
+Rule Access
+Administration
+The ability to access the Rule Manager.
+Trader
+N
+Rule Access
+Administration
+The ability to access the Rule Manager.
+Data Import
+N
+Restrictions
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+System Defaults
+N
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+System Administrator
+Y
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+Manager
+N
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+Portfolio Assistant
+N
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+Head Trader
+N
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+Trader
+N
+Custom Data Manager Access
+Administration
+The ability to access the Custom Data Manager.
+Data Import
+N
+Restrictions Overridden
+Rename Security
+Administration
+The ability to rename a security.
+System Defaults
+N
+Rename Security
+Administration
+The ability to rename a security.
+System Administrator
+Y
+Rename Security
+Administration
+The ability to rename a security.
+Manager
+N
+Rename Security
+Administration
+The ability to rename a security.
+Portfolio Assistant
+N
+Rename Security
+Administration
+The ability to rename a security.
+Head Trader
+Y
+Rename Security
+Administration
+The ability to rename a security.
+Trader
+Y
+Rename Security
+Administration
+The ability to rename a security.
+Data Import
+N
+Broker
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+System Defaults
+N
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+System Administrator
+Y
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+Manager
+N
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+Portfolio Assistant
+N
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+Head Trader
+Y
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+Trader
+N
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+Data Import
+N
+Info
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+System Defaults
+Y
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+System Administrator
+Y
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+Manager
+Y
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+Portfolio Assistant
+Y
+Event Logs
+Administration
+The ability to view and configure event logs.
+Head Trader
+Y
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+Trader
+Y
+Tools Menu
+Administration
+The ability to go into Moxy tools menu.
+Data Import
+Y
+Omnibus Acct
+Event Logs
+Administration
+The ability to view and configure event logs.
+System Defaults
+Y
+Event Logs
+Administration
+The ability to view and configure event logs.
+System Administrator
+Y
+Event Logs
+Administration
+The ability to view and configure event logs.
+Manager
+Y
+Event Logs
+Administration
+The ability to view and configure event logs.
+Portfolio Assistant
+Y
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+Head Trader
+N
+Event Logs
+Administration
+The ability to view and configure event logs.
+Trader
+Y
+Event Logs
+Administration
+The ability to view and configure event logs.
+Data Import
+Y
+Rep Info
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+System Defaults
+N
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+System Administrator
+Y
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+Manager
+N
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+Portfolio Assistant
+N
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+Head Trader
+N
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+Trader
+N
+Browse Locked Portfolios
+Administration
+The ability to browse locked portfolios
+Data Import
+N
+Commission
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+System Defaults
+N
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+System Administrator
+Y
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+Manager
+N
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+Portfolio Assistant
+N
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+Head Trader
+N
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+Trader
+N
+Edit Previous Close
+Administration
+The ability to edit previous close price.
+Data Import
+N
+Schedule
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+System Defaults
+N
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+System Administrator
+Y
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+Manager
+N
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+Portfolio Assistant
+N
+Enable Force Archive
+Administration
+The ability to Force an Order to archive via the Order View
+Head Trader
+N
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+Trader
+N
+Manage Pricing Rules
+Administration
+The ability to manage pricing rules.
+Data Import
+N
+Types
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+System Defaults
+N
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+System Administrator
+Y
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+Manager
+N
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+Portfolio Assistant
+N
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+Head Trader
+Y
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+Trader
+Y
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+Data Import
+N
+Purpose
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+System Defaults
+N
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+System Administrator
+Y
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+Manager
+N
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+Portfolio Assistant
+N
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+Head Trader
+Y
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+Trader
+N
+Secmaster Table
+System Tables
+The ability to add or edit security information in dbo.Moxy.
+Data Import
+N
+Concess
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+System Defaults
+N
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+System Administrator
+Y
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+Manager
+Y
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+Portfolio Assistant
+Y
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+Head Trader
+Y
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+Trader
+Y
+Portfolio Table
+System Tables
+The ability to add or edit portfolio information in dbo.Moxy.
+Data Import
+N
+Broker
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+System Defaults
+N
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+System Administrator
+Y
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+Manager
+Y
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+Portfolio Assistant
+Y
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+Head Trader
+Y
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+Trader
+N
+Broker Accounts Table
+System Tables
+The ability to add or edit broker accounts in dbo.Moxy.
+Data Import
+N
+Selector
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+System Defaults
+N
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+System Administrator
+Y
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+Manager
+Y
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+Portfolio Assistant
+Y
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+Head Trader
+N
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+Trader
+Y
+Cash Db/Cr Table
+System Tables
+The ability to debit and credit cash in dbo.Moxy.
+Data Import
+N
+Custodian
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+System Defaults
+N
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+System Administrator
+Y
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+Manager
+N
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+Portfolio Assistant
+N
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+Head Trader
+Y
+All Other System Tables
+System Tables
+The ability to add or edit information in system tables other than Restrictions, Securities, Portfolios, and Broker Accounts in dbo.Moxy.
+Trader
+N
+Duplicate Security
+System Tables
+The ability to duplicate a security.
+Data Import
+N
+Info 
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+System Defaults
+N
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+System Administrator
+Y
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+Manager
+N
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+Portfolio Assistant
+N
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+Head Trader
+Y
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+Trader
+Y
+Create/Edit
+System Tables
+The ability to create, edit, or remove a FIX connection.
+Data Import
+N
+Omnibus Info
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+System Defaults
+N
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+System Administrator
+Y
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+Manager
+N
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+Portfolio Assistant
+N
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+Head Trader
+Y
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+Trader
+Y
+Connect/Disconnect
+System Tables
+The ability to connect, disconnect, or resync a FIX connection.
+Data Import
+N
+Settle Instr
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+System Defaults
+N
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+System Administrator
+Y
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+Manager
+N
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+Portfolio Assistant
+N
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+Head Trader
+Y
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+Trader
+Y
+EOD
+System Tables
+The ability to initiate FIX end-of-day processing on a connection.
+Data Import
+N
+Security
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+System Defaults
+N
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+System Administrator
+Y
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+Manager
+N
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+Portfolio Assistant
+N
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+Head Trader
+N
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+Trader
+N
+Add and Edit Restrictions Table
+System Tables
+The ability to add restrictions in Moxy.
+Data Import
+N
+Fixed Inc
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+System Defaults
+Y
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+System Administrator
+Y
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+Manager
+Y
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+Portfolio Assistant
+Y
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+Head Trader
+Y
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+Trader
+Y
+View Restrictions Table
+System Tables
+The ability to view restrictions in Moxy.
+Data Import
+Y
+Equity
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+System Defaults
+N
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+System Administrator
+Y
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+Manager
+Y
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+Portfolio Assistant
+Y
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+Head Trader
+Y
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+Trader
+N
+Access Model Portfolio Association
+System Tables
+The ability to access Model Portfolio Association in Portfolio Manager.
+Data Import
+N
+Types
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+System Defaults
+N
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+System Administrator
+Y
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+Manager
+Y
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+Portfolio Assistant
+Y
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+Head Trader
+Y
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+Trader
+N
+Access Model Editor
+System Tables
+The ability to access the Model Editor in Portfolio Manager.
+Data Import
+N
+FX Rates
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+System Defaults
+N
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+System Administrator
+Y
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+Manager
+Y
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+Portfolio Assistant
+Y
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+Head Trader
+Y
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+Trader
+N
+Access Portfolio Manager
+System Tables
+The ability to access Portfolio Manager.
+Data Import
+N
+Price
+Moxy Security
+Port. Access by User
+User Access by Port.
+Port. Access Information
+Func. Security Information
+Func. Security by User
+Administration
+This level contains the rights to perform system administration functions in dbo.Moxy.
+Enable Force Archive
+Tools Menu
+Event Logs
+Browse Locked Portfolios
+Edit Previous Close
+Manage Pricing Rules
+Administrator
+Remove Order Locks
+Import/Maintenance
+Export
+Installed Reports
+Portfolio Access
+Portfolio Rename
+Functional Access
+Exclusive Access
+Rule Access
+Custom Data Manager Access
+Rename Security
+System Tables Access 
+This level contains the rights to access system tables in dbo.Moxy.
+Fix Connections
+Create/Edit
+Connect/Disconnect
+EOD
+Restrictions Table
+Add and Edit Restrictions Table
+View Restrictions Table
+Secmaster Table
+Portfolio Table
+Broker Accounts Table
+Cash Db/Cr Table
+Duplicate Security
+All Other System Tables
+Portfolio Manager
+This level contains the rights to access system tables in dbo.Moxy.
+Access Model Portfolios Associations
+Access Model Editor
+Access Portfolio Manager

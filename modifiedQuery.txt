@@ -1,0 +1,10 @@
+SELECT
+FunctionalAccessGroupName,
+MoxyFunctionGroupID,
+MoxyFunctionName,
+FunctionDescription,
+AccessRight
+FROM MoxyFunctionalAccessRights FAR
+JOIN MoxyFunctionalAccessGroups AG ON FAR.FunctionalAccessGrpID = AG.FunctionalAccessGrpID
+JOIN MoxyFunctions F ON FAR.MoxyFunctionID = F.MoxyFunctionID
+ORDER BY AG.FunctionalAccessGrpID, F.MoxyFunctionGroupID
