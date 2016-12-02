@@ -2,22 +2,58 @@
 import java.util.*;
 
 public class MoxySecurityData {
-		   
-		private ArrayList<MoxyFSG> fsgList;
-		   
+
+// MoxySecurityData will hold the database data
+// This class will not organize the data (see MoxySecurityMatrix)
+
+		private HashMap<Integer, MoxyFunction> functionList;
+		private HashMap<Integer, MoxyFunctionGroup> functionGroupList;
+		private HashMap<Integer, MoxyFSG> fsgList;
+				
 		public MoxySecurityData(){
-			fsgList = new ArrayList<MoxyFSG>();
+			
+			fsgList = new HashMap<Integer, MoxyFSG>();
+			functionGroupList = new HashMap<Integer, MoxyFunctionGroup>();
+			functionList = new HashMap<Integer, MoxyFunction>();
 		};
 		   
+		public void addFunctionAccessRight(MoxyFunctionAccessRight functionRight) {
+			
+			// need to get the proper FSG
+			//System.out.println("Adding the function right.  The function id is: " + functionRight.getFunctionID() );
+			MoxyFSG fsg = this.getMoxyFSG(functionRight.getFSGID());
+			fsg.addFunctionRight(functionRight);
+		}
 		   		   
+		public void addFunction(MoxyFunction function) {
+
+			if(function.getFunctionID() != -1)
+				functionList.put(function.getFunctionID(), function);
+		}
+
+		
+		public void addFunctionGroup(MoxyFunctionGroup functionGroup) {
+
+			functionGroupList.put(functionGroup.getMoxyFunctionGroupID(), functionGroup);
+		}
+		
 		public void addFSG(MoxyFSG fsg) {
 			   
-			fsgList.add(fsg);
+			fsgList.put(fsg.getMoxyFSGID(),fsg);
+			System.out.println("Adding FSG: " + fsg.getMoxyFSGName());
 		}
 		   
-		public MoxyFSG getMoxyFSG(int i) {
+		public HashMap<Integer, MoxyFunction> getFunctionList() {
+			return functionList;
+		}
+		
+		public HashMap<Integer, MoxyFunctionGroup> getFunctionGroupList() {
+			return functionGroupList;
+		}
+		
+		public MoxyFSG getMoxyFSG(int id) {
 			
-			return fsgList.get(i);
+			return fsgList.get(id);
 		}
 		
 		public int getNumberOfFSG() {
@@ -25,129 +61,116 @@ public class MoxySecurityData {
 			return fsgList.size();
 		}
 		
-		public MoxyFSG getMoxyFSG(String fsgName) {
-			
-			//System.out.println("Inside getMoxyFSG, the fsgName is: " + fsgName);
-			
-			for(MoxyFSG test : fsgList) {
-				//System.out.println("Inside the for loop.  The name is of the test iterator fsg is: " + test.getMoxyFSGName());
-				if(fsgName.replace(" ", "").equalsIgnoreCase(test.getMoxyFSGName().replace(" ", ""))) 
-					return test;
-			}
-			
-			return null;
-		}
-		
-		public void printFSGList() {
-			//System.out.println("This list of FSG");
-			for(MoxyFSG test : fsgList) {
-				System.out.println("The Moxy FSg is: " + test.getMoxyFSGName());
-			}
-		}
-		
-		   
-		public ArrayList<MoxyFSG> getFSGList() {
+				   
+		public HashMap<Integer, MoxyFSG> getFSGList() {
 			return fsgList;
 		}      
-		   
-	    public MoxyFSG fsgExists(String fsgName) {
-			
-			
-			
-			// this assumes the FSG exists
-			for(MoxyFSG test : fsgList) {
-				if(fsgName.equals(test.getMoxyFSGName())) {
-					
-					return test;
-				}	
-			
+
+		public void addFunctionGroupGeneration() {
+			// assumes max 3 generations - probably should implement recursion for this
+			Set<Map.Entry<Integer, MoxyFunctionGroup>> functionGroupSet = functionGroupList.entrySet();
+			for(Map.Entry<Integer, MoxyFunctionGroup> entryFunctionGroup : functionGroupSet) {
+				int parent = entryFunctionGroup.getValue().getMoxyFunctionGroupParentID();
+				if(parent == 0)
+					entryFunctionGroup.getValue().setGeneration(0);  // 1st generation
+				else {
+					parent = entryFunctionGroup.getValue().getMoxyFunctionGroupParentID(); 
+					if(parent == 0)
+						entryFunctionGroup.getValue().setGeneration(1); // 2nd generation 
+				 	else {
+						parent = entryFunctionGroup.getValue().getMoxyFunctionGroupParentID();
+						if(parent == 0)
+							entryFunctionGroup.getValue().setGeneration(2);  //3rd generation
+						else 
+							entryFunctionGroup.getValue().setGeneration(3);  // 4th generation
+				 	}
+				}
 			}
-			
-			return null;
 		}
 
+		
+		
+		public void printFunctionData() {
+
+			Map<Integer, MoxyFunction> functionListTree = new TreeMap<Integer, MoxyFunction>(functionList);
+			Set<Map.Entry<Integer, MoxyFunction>> functionSet = functionListTree.entrySet();
+			for(Map.Entry<Integer, MoxyFunction> entryFunction : functionSet) {
+					MoxyFunction test = entryFunction.getValue();
+					System.out.println("Function id: " + test.getFunctionID() + " Function Name: " + test.getFunctionName() );
+			}
+		}
+
+		public void printFunctionGroupData() {
+
+			System.out.println("FunctionGroupSize is " + functionGroupList.size());
+			Set<Map.Entry<Integer, MoxyFunctionGroup>> functionGroupSet = functionGroupList.entrySet();
+
+			for(Map.Entry<Integer, MoxyFunctionGroup> entryFunctionGroup : functionGroupSet) {
+			
+					MoxyFunctionGroup test = entryFunctionGroup.getValue();
+					System.out.println("Function Group id: " + test.getMoxyFunctionGroupID() + " Fuctnion Name: " + test.getMoxyFunctionGroupName() );
+			}
+		}		
+
+		public void printFSGData() {
+
+			Set<Map.Entry<Integer, MoxyFSG>> set = fsgList.entrySet();
+			
+			for(Map.Entry<Integer, MoxyFSG> entry : set) {
+				// MoxyFSG test = fsgList.get(i);
+				System.out.println("FSG id: " + entry.getKey() + " FSG Name: " + entry.getValue());
+			}
+		}
+
+		public int getMinFunctionKey() {
+			
+			Integer min;
+			
+			min = Collections.min(functionList.keySet());
+			return min.intValue();
+		}
 
 		
-		public void addFunctionToFSG(String fsgName, int groupID, MoxyFunction function) {
+		public int getMaxFunctionKey() {
 			
-			MoxyFSG test;
-			test = this.fsgExists(fsgName);
+			Integer max;
 			
-			// if FSG exists then a pointer will be returned, meaning not null and it doesn't need to be added only the function needs to be added
-			// if the FSG does not exist a null will be returned and it needs to be created
-			if(test!= null) {  //fsg exists, need to add it to the list
-				
-				test.addFunctionToFSG(groupID, function);
-			}
-			
-			else {  //FSG does not exists 
-				
-				MoxyFSG newFSG = new MoxyFSG(fsgName);
-				//System.out.println("The FSG is created");
-				newFSG.addFunctionToFSG(groupID, function);
-				//System.out.println("The function is added");
-				this.addFSG(newFSG);
-			}
+			max = Collections.min(functionList.keySet());
+			return max.intValue();
 		}
-		
-		public void insertSecurityRecord(String fsgName, int moxyFunctionGroupID, String moxyFunctionName, String description, String accessRight) {
+
+		public int getMinFunctionGroupKey() {
 			
-			// assume no duplicate functions returned from database			
-			MoxyFunction function = new MoxyFunction(moxyFunctionName, description, accessRight);
-			this.addFunctionToFSG(fsgName, moxyFunctionGroupID, function);
+			Integer min;
+			
+			min = Collections.min(functionGroupList.keySet());
+			return min.intValue();
 		}
+
 		
-		
-		public void printSecurityData() {
+		public int getMaxFunctionGroupKey() {
 			
-			for(MoxyFSG fsg : fsgList) 
-				fsg.printFSGData();
+			Integer max;
 			
-			System.out.println("There are " + fsgList.size() + " FSGs in the list");
-			
-			for(MoxyFSG fsg : fsgList) 
-				System.out.println("FSG: " + fsg.getMoxyFSGName());
-		
+			max = Collections.min(functionGroupList.keySet());
+			return max.intValue();
 		}
-		
-		
-		public String getAccessRight(String fsgString, String function) {
-			//System.out.println("Do I get to MoxySecurityData.getAccessRight()?" + " The fsgString var is: " + fsgString);
-			MoxyFSG fsgObject = this.getMoxyFSG(fsgString);
-			//this.printFSGList();
-			if(fsgObject == null) 
-				System.out.println("fsgObject is null");
-			//else 
-					
-				//System.out.println("fsgObject is not null");
-				//System.out.println("Test: " + fsgObject.getMoxyFSGName());
-				//System.out.println("Do we get into MoxySecurityData");
-				//System.out.println("The FSG is returned by MSD.getAccessRight - the name is " + fsgObject.getMoxyFSGName());
-			
-			if(fsgObject != null)
-				return fsgObject.getFunctionAccessRight(function);
-			else
-				return null;
-		}
-		
+
 		public static void main(String args[]) {
-			   
-			String fsgName = new String("System Defaults");
-			int groupID = 2;
-			String functionName = new String("Approve Own Trades");
-			String functionDescription = new String("Controls whether users can approve orders");
-			String accessRight = new String("Y");
-						
-			String fsgName2 = new String("System Administrator");
-			
-			MoxySecurityData moxySecurityData = new MoxySecurityData();
-			moxySecurityData.insertSecurityRecord(fsgName, groupID, functionName, functionDescription, accessRight);
-			moxySecurityData.insertSecurityRecord(fsgName2, groupID, functionName, functionDescription, accessRight);
-			
-			String test = moxySecurityData.getAccessRight("System Defaults", "Approve Own Trades");
-			
-			moxySecurityData.printSecurityData();
-			System.out.println("The access right is " + test);
-			
+
+		MoxySecurityConnect moxyConnect = new MoxySecurityConnect();
+		MoxySecurityData dataTest;
+
+		moxyConnect.setServerIP("10.2.145.20");
+		moxyConnect.setDBName("Moxy");
+		moxyConnect.setUserID("sa");
+		moxyConnect.setUserPassword("!Advent1");
+		
+		moxyConnect.startConnection();
+		
+		dataTest = moxyConnect.getMoxySecurityData();
+		dataTest.printFunctionData();
+
+
 		}
 }
